@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Jayanayak2003
 
 - 👀 I’m interested in  Web Development, DevOps, and AIML.
-- 🌱 I’m currently learning AWS DevOps, including EC2, S3, IAM, CLI commands, and cloud security.
+- 🌱 I’m currently learning JAVA Full Stack Development.
 - 💞️ I’m looking to collaborate on projects related to Web Development, Aiml and DevOps practices.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaya-nayak-438397258) or via email at jayanayak2003@gmail.com.
 - 😄 Pronouns: He/Him
